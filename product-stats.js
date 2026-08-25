@@ -1,4 +1,3 @@
-<script>
 (function () {
   'use strict';
 
@@ -538,4 +537,3 @@
     ? document.addEventListener('DOMContentLoaded', start)
     : start();
 })();
-</script>
